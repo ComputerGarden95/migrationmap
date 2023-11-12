@@ -1,0 +1,7 @@
+ideas and sources for data mess sheet
+
+thesis
+a webapp that allows for comparison of geological, climate, and social data for the purpose of deciding where to move in north america
+
+geojson
+mapbox
